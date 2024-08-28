@@ -41,5 +41,5 @@ function solve(eq::DifferentialEquation, x0)
 end
 
 # special case of constant functions
-solve(eq::DifferentialEquation{<:ConstantFunction}, x0) = return exp(eq.λ())*x0
+solve(eq::DifferentialEquation{<:ConstantFunction}, x0) = exp(eq.λ())*x0
 ```
