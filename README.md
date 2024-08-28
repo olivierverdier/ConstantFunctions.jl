@@ -1,4 +1,10 @@
+# Use `Returns` instead of this package
+
+---
+
 # ConstantFunctions
+
+
 
 [![Build Status](https://github.com/olivierverdier/ConstantFunctions.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/olivierverdier/ConstantFunctions.jl/actions/workflows/CI.yml?query=branch%3Amain)
 [![codecov](https://codecov.io/gh/olivierverdier/ConstantFunctions.jl/graph/badge.svg?token=DMvNIPam3i)](https://codecov.io/gh/olivierverdier/ConstantFunctions.jl)
